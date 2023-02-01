@@ -1,0 +1,1 @@
+{"version":3,"file":"main.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://fantasy-team-select/./src/style/style.scss"],"sourcesContent":["body {\n\tcolor: red;\n}\n"],"names":[],"sourceRoot":""}
