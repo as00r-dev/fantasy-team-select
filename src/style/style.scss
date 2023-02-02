@@ -1,3 +1,25 @@
-body {
-	color: red;
-}
+// fonts
+@import "partials/base/fonts";
+
+// css reset
+@import "partials/base/reset";
+
+// variables and functions
+@import "partials/base/functions";
+@import "partials/base/variables";
+
+// colors
+@import "partials/base/colors";
+
+// base & layout
+@import "partials/base/base";
+@import "partials/base/breakpoints";
+@import "partials/base/grid";
+
+// components
+@import "partials/components/card";
+@import "partials/components/button";
+@import "partials/components/navbar";
+
+// utility classes
+@import "partials/base/utils";
